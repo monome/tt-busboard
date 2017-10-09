@@ -17,4 +17,4 @@ pcb via oshpark: https://oshpark.com/shared_projects/kg4mZSCg
 
 ## guide
 
-!(tt-bus-01.jpg)
+![](tt-bus-01.JPG)
