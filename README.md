@@ -14,3 +14,7 @@ see http://digikey.com
 * (1) header, male, shrouded, 2x5 ED1543-ND 
 
 pcb via oshpark: https://oshpark.com/shared_projects/kg4mZSCg 
+
+## guide
+
+!(tt-bus-01.jpg)
